@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BeniiSMP.aternos.me",
+    "port": 39523,
     "version": "",
     "try-creative": false
   },
